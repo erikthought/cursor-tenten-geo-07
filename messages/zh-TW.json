@@ -1,0 +1,93 @@
+{
+  "nav": {
+    "home": "首頁",
+    "services": "服務",
+    "pricing": "價格",
+    "about": "關於",
+    "contact": "聯絡",
+    "getStarted": "開始使用"
+  },
+  "hero": {
+    "headline": "用 GEO 讓您的 SEO 面向未來",
+    "subheadline": "全球規模的生成式引擎優化",
+    "description": "領先 AI 搜尋引擎如 ChatGPT、Claude 和 Google AI 概覽。我們優化您的內容以主導生成式 AI 搜尋結果並獲取高意圖流量。",
+    "ctaPrimary": "開始建置",
+    "ctaSecondary": "了解更多",
+    "trustBadge": "全球 100+ 企業信賴"
+  },
+  "problem": {
+    "headline": "傳統 SEO 正在過時",
+    "subtitle": "AI 搜尋引擎正在改變人們發現資訊的方式",
+    "points": [
+      {
+        "title": "零點擊搜尋增長",
+        "description": "60% 的搜尋現在不點擊網站就結束"
+      },
+      {
+        "title": "AI 答案主導",
+        "description": "ChatGPT、Claude 和 Google AI 提供直接答案而非連結"
+      },
+      {
+        "title": "可見性危機",
+        "description": "傳統 SEO 策略無法讓您的內容出現在 AI 回應中"
+      }
+    ]
+  },
+  "solution": {
+    "headline": "GEO：搜尋優化的下一步演進",
+    "subtitle": "為生成答案的 AI 引擎優化，而非僅僅排名頁面",
+    "features": [
+      {
+        "title": "AI 回應優化",
+        "description": "結構化內容讓 AI 模型易於理解和引用",
+        "icon": "brain"
+      },
+      {
+        "title": "來源歸屬",
+        "description": "增加在 AI 答案中被引用為可信來源的機會",
+        "icon": "link"
+      },
+      {
+        "title": "多引擎覆蓋",
+        "description": "為 ChatGPT、Claude、Perplexity、Google AI 和新興平台優化",
+        "icon": "network"
+      },
+      {
+        "title": "意圖對齊",
+        "description": "讓您的內容與 AI 解釋和回答用戶查詢的方式匹配",
+        "icon": "target"
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "選擇您的 GEO 策略",
+    "subtitle": "每種企業規模的透明定價",
+    "plans": {
+      "standard": {
+        "name": "標準 GEO 套餐",
+        "price": "$2,390",
+        "period": "每月",
+        "description": "適合準備主導 AI 搜尋的成長型企業",
+        "cta": "開始標準計劃"
+      },
+      "premium": {
+        "name": "高級 GEO 套餐", 
+        "price": "$5,290",
+        "period": "每月",
+        "description": "適合認真對待 AI 搜尋主導地位的企業",
+        "cta": "開始高級計劃"
+      }
+    }
+  },
+  "cta": {
+    "headline": "準備主導 AI 搜尋嗎？",
+    "subtitle": "加入已經透過 GEO 獲勝的企業",
+    "primary": "立即開始",
+    "secondary": "預約諮詢"
+  },
+  "footer": {
+    "company": "Tenten.co",
+    "description": "透過生成式引擎優化引領搜尋優化的未來。",
+    "rights": "版權所有。"
+  }
+} 

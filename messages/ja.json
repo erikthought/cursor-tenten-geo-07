@@ -1,0 +1,93 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "services": "サービス",
+    "pricing": "料金",
+    "about": "会社概要",
+    "contact": "お問い合わせ",
+    "getStarted": "始める"
+  },
+  "hero": {
+    "headline": "GEOで未来のSEOを構築",
+    "subheadline": "グローバル規模の生成エンジン最適化",
+    "description": "ChatGPT、Claude、Google AI概要などのAI検索エンジンの先を行く。生成AI検索結果を支配し、高意図トラフィックを獲得するためにコンテンツを最適化します。",
+    "ctaPrimary": "構築開始",
+    "ctaSecondary": "詳細を見る",
+    "trustBadge": "世界100+企業に信頼されています"
+  },
+  "problem": {
+    "headline": "従来のSEOは時代遅れになっています",
+    "subtitle": "AI検索エンジンが情報発見の方法を変えています",
+    "points": [
+      {
+        "title": "ゼロクリック検索の増加",
+        "description": "検索の60%がウェブサイトをクリックせずに終了"
+      },
+      {
+        "title": "AI回答の支配",
+        "description": "ChatGPT、Claude、Google AIがリンクではなく直接回答を提供"
+      },
+      {
+        "title": "可視性の危機",
+        "description": "従来のSEO戦術ではAI応答にコンテンツを表示できない"
+      }
+    ]
+  },
+  "solution": {
+    "headline": "GEO：検索最適化の次の進化",
+    "subtitle": "ページをランク付けするだけでなく、回答を生成するAIエンジンに最適化",
+    "features": [
+      {
+        "title": "AI応答最適化",
+        "description": "AIモデルが理解・引用しやすいコンテンツ構造",
+        "icon": "brain"
+      },
+      {
+        "title": "ソース帰属",
+        "description": "AI回答で信頼できるソースとして引用される可能性を高める",
+        "icon": "link"
+      },
+      {
+        "title": "マルチエンジン対応",
+        "description": "ChatGPT、Claude、Perplexity、Google AI、新興プラットフォームに最適化",
+        "icon": "network"
+      },
+      {
+        "title": "意図の整合",
+        "description": "AIがユーザークエリを解釈・回答する方法とコンテンツを一致させる",
+        "icon": "target"
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "GEO戦略をお選びください",
+    "subtitle": "あらゆる事業規模に対応する透明な料金体系",
+    "plans": {
+      "standard": {
+        "name": "スタンダードGEOパッケージ",
+        "price": "$2,390",
+        "period": "月額",
+        "description": "AI検索を支配する準備ができた成長企業に最適",
+        "cta": "スタンダードプラン開始"
+      },
+      "premium": {
+        "name": "プレミアムGEOパッケージ",
+        "price": "$5,290", 
+        "period": "月額",
+        "description": "AI検索支配に真剣な企業向け",
+        "cta": "プレミアムプラン開始"
+      }
+    }
+  },
+  "cta": {
+    "headline": "AI検索を支配する準備はできていますか？",
+    "subtitle": "すでにGEOで勝利している企業に参加",
+    "primary": "今すぐ始める",
+    "secondary": "相談予約"
+  },
+  "footer": {
+    "company": "Tenten.co",
+    "description": "生成エンジン最適化を通じて検索最適化の未来をリード。",
+    "rights": "全著作権所有。"
+  }
+} 

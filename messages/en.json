@@ -1,0 +1,190 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "pricing": "Pricing",
+    "about": "About",
+    "contact": "Contact",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "headline": "Future-Proof Your SEO with GEO",
+    "subheadline": "Generative Engine Optimization at global scale",
+    "description": "Stay ahead of AI search engines like ChatGPT, Claude, and Google's AI Overviews. We optimize your content to dominate generative AI search results and capture high-intent traffic.",
+    "ctaPrimary": "Start Building",
+    "ctaSecondary": "Learn More",
+    "trustBadge": "Trusted by 100+ companies worldwide"
+  },
+  "problem": {
+    "headline": "Traditional SEO is becoming obsolete",
+    "subtitle": "AI search engines are changing how people discover information",
+    "points": [
+      {
+        "title": "Zero-click searches growing",
+        "description": "60% of searches now end without clicking through to a website"
+      },
+      {
+        "title": "AI answers dominate",
+        "description": "ChatGPT, Claude, and Google AI provide direct answers instead of links"
+      },
+      {
+        "title": "Visibility crisis",
+        "description": "Traditional SEO tactics fail to get your content featured in AI responses"
+      }
+    ]
+  },
+  "solution": {
+    "headline": "GEO: The next evolution of search optimization",
+    "subtitle": "Optimize for AI engines that generate answers, not just rank pages",
+    "features": [
+      {
+        "title": "AI Response Optimization",
+        "description": "Structure content to be easily understood and cited by AI models",
+        "icon": "brain"
+      },
+      {
+        "title": "Source Attribution",
+        "description": "Increase chances of being cited as a trusted source in AI answers",
+        "icon": "link"
+      },
+      {
+        "title": "Multi-Engine Coverage",
+        "description": "Optimize for ChatGPT, Claude, Perplexity, Google AI, and emerging platforms",
+        "icon": "network"
+      },
+      {
+        "title": "Intent Alignment",
+        "description": "Match your content with how AI interprets and answers user queries",
+        "icon": "target"
+      }
+    ]
+  },
+  "stats": {
+    "headline": "Proven results across industries",
+    "metrics": [
+      {
+        "value": "300%",
+        "label": "Increase in AI citations",
+        "description": "Average boost in mentions across AI platforms"
+      },
+      {
+        "value": "85%",
+        "label": "Source attribution rate",
+        "description": "Clients achieve high citation rates in AI responses"
+      },
+      {
+        "value": "150%",
+        "label": "Qualified traffic growth",
+        "description": "More high-intent visitors from AI-driven searches"
+      },
+      {
+        "value": "60%",
+        "label": "Faster implementation",
+        "description": "Compared to traditional SEO optimization timelines"
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Choose your GEO strategy",
+    "subtitle": "Transparent pricing for every business size",
+    "monthly": "Monthly",
+    "annually": "Annually",
+    "save": "Save 20%",
+    "plans": {
+      "standard": {
+        "name": "Standard GEO Package",
+        "price": "$2,390",
+        "period": "per month",
+        "description": "Perfect for growing businesses ready to dominate AI search",
+        "features": [
+          "Comprehensive GEO Audit",
+          "Technical SEO Foundation",
+          "GEO Analysis Report",
+          "Strategic Keyword Matrix",
+          "8 Long-form GEO Articles (1,500-3,000 words)",
+          "Monthly Performance Report",
+          "Email Support"
+        ],
+        "cta": "Start Standard Plan",
+        "popular": false
+      },
+      "premium": {
+        "name": "Premium GEO Package",
+        "price": "$5,290",
+        "period": "per month",
+        "description": "For enterprises serious about AI search domination",
+        "features": [
+          "Everything in Standard",
+          "30 Long-form GEO Articles (1,500-3,000 words)",
+          "Dedicated Communication Channel",
+          "Priority Support (12hr response)",
+          "Bi-weekly Strategy Sessions",
+          "Advanced AI Platform Tracking",
+          "Custom Implementation Strategy"
+        ],
+        "cta": "Start Premium Plan",
+        "popular": true
+      }
+    }
+  },
+  "testimonials": {
+    "headline": "What our clients say",
+    "subtitle": "Real results from real businesses",
+    "items": [
+      {
+        "quote": "Tenten's GEO strategy helped us become the go-to source for AI search results in our industry. Our qualified leads increased by 200%.",
+        "author": "Sarah Chen",
+        "title": "CMO at TechFlow",
+        "avatar": "/testimonial-1.jpg"
+      },
+      {
+        "quote": "Within 3 months, we were being cited in ChatGPT responses for our key topics. The ROI has been incredible.",
+        "author": "Marcus Rodriguez",
+        "title": "Founder, DataVault",
+        "avatar": "/testimonial-2.jpg"
+      }
+    ]
+  },
+  "faq": {
+    "headline": "Frequently asked questions",
+    "items": [
+      {
+        "question": "What is Generative Engine Optimization (GEO)?",
+        "answer": "GEO is the practice of optimizing content to be discovered, understood, and cited by AI-powered search engines and chatbots like ChatGPT, Claude, Google AI, and Perplexity."
+      },
+      {
+        "question": "How is GEO different from traditional SEO?",
+        "answer": "While SEO focuses on ranking in search results, GEO optimizes for being featured in AI-generated answers and responses. It requires different content structures, citation strategies, and technical approaches."
+      },
+      {
+        "question": "Which AI platforms do you optimize for?",
+        "answer": "We optimize for all major AI platforms including ChatGPT, Claude, Perplexity, Google AI Overviews, Microsoft Copilot, and emerging generative search engines."
+      },
+      {
+        "question": "How long does it take to see results?",
+        "answer": "Most clients see initial improvements in AI citations within 4-6 weeks, with significant results typically achieved within 3 months of consistent implementation."
+      },
+      {
+        "question": "Can GEO work alongside my existing SEO strategy?",
+        "answer": "Absolutely! GEO complements traditional SEO. We ensure your content performs well in both traditional search engines and AI-powered platforms."
+      }
+    ]
+  },
+  "cta": {
+    "headline": "Ready to dominate AI search?",
+    "subtitle": "Join the companies already winning with GEO",
+    "primary": "Get Started Today",
+    "secondary": "Schedule Consultation",
+    "guarantee": "30-day money-back guarantee"
+  },
+  "footer": {
+    "company": "Tenten.co",
+    "description": "Leading the future of search optimization through Generative Engine Optimization.",
+    "rights": "All rights reserved.",
+    "links": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "contact": "Contact Us"
+    }
+  }
+} 
