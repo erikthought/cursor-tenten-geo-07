@@ -40,7 +40,7 @@ export default function Testimonials() {
                 </div>
                 
                 <blockquote className="text-lg text-gray-700 leading-relaxed mb-6">
-                  "{t(`items.${index}.quote`)}"
+                  &ldquo;{t(`items.${index}.quote`)}&rdquo;
                 </blockquote>
                 
                 <div className="flex items-center">
